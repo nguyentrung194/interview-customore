@@ -3,7 +3,7 @@ const local = {
 };
 
 const staging = {
-  api: "http://localhost:5000/api/",
+  api: "128.199.163.182/api/",
 };
 
 let envConfig = local;
