@@ -3,7 +3,7 @@ const local = {
 };
 
 const staging = {
-  api: "128.199.163.182/api/",
+  api: "20.196.66.40/api/",
 };
 
 let envConfig = local;
