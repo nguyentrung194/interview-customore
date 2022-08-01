@@ -1,0 +1,1 @@
+export { default as icon_template } from "./svg/icon_template.svg";

@@ -1,0 +1,128 @@
+{
+  "TOP_BANER": {
+    "1": "We are hiring!",
+    "2": "Learn More"
+  },
+  "SETTING": "Setting",
+  "MENU": {
+    "NAVBAR": {
+      "LEFT": {
+        "HOME": "Home",
+        "FEATURES": "Features",
+        "LEARN": "Learn",
+        "PRICING": "Pricing",
+        "PRODUCTS": "Products",
+        "PRODUCTS_SUB_MENU": {
+          "API_Generator": "API Generator",
+          "API_Mock_Server": "API Mock Server",
+          "API_Test_Data_Generator": "API Test Data Generator",
+          "URL_Shortner": "URL Shortner",
+          "Application_Config_Manager": "Application Config Manager"
+        },
+        "INTEGRATIONS": "Integrations",
+        "ABOUT_US": "About Us"
+      },
+      "RIGHT": {
+        "LOGIN": "Login",
+        "SIGN_UP": "Sign Up for Free",
+        "SIGN_UP_SHORT": "Free Sign Up"
+      }
+    }
+  },
+  "LANGDING": {
+    "SESSION_1": {
+      "TITLE": "Powerful API Testing & Monitoring for your entire team",
+      "SUB_TITLE_1": "Functional API testing & monitoring for REST & GraphQL APIs with multi-step tests, unlimited users and team collaboration.",
+      "SUB_TITLE_2": "No credit card required."
+    },
+    "SESSION_2": {
+      "TITLE": "What is API test suite?",
+      "CARD_1": {
+        "TITLE": "API Management",
+        "DESCRIPTION": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+      },
+      "CARD_2": {
+        "TITLE": "API Dependency Tracking",
+        "DESCRIPTION": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+      },
+      "CARD_3": {
+        "TITLE": "Centralized API Documentation",
+        "DESCRIPTION": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+      },
+      "CARD_4": {
+        "TITLE": "API Test Data Generation",
+        "DESCRIPTION": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+      },
+      "CARD_5": {
+        "TITLE": "API Test Suite Management",
+        "DESCRIPTION": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+      },
+      "CARD_6": {
+        "TITLE": "External Integrations",
+        "DESCRIPTION": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+      },
+      "CARD_7": {
+        "TITLE": "Mock servers",
+        "DESCRIPTION": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+      },
+      "CARD_8": {
+        "TITLE": "API's on the fly",
+        "DESCRIPTION": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+      },
+      "CARD_9": {
+        "TITLE": "Export/Import: Swagger, Ramal, OpenAPI specs",
+        "DESCRIPTION": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+      }
+    },
+    "SESSION_3": {
+      "BTN_Learn_more": "Learn more!"
+    },
+    "SESSION_4": {
+      "TITLE": "Get started with API Test Suite!",
+      "INPUT": "Type your email...",
+      "BUTTON": "Get started!"
+    }
+  },
+  "FOOTER": {
+    "COMPANY": "Company",
+    "COMPANY_SUB_MENU": {
+      "HOME": "Home",
+      "CHANGELOG": "Changelog",
+      "PRICING": "Pricing",
+      "CAREERS": "Careers",
+      "WE_ARE_HIRING": "We're hiring"
+    },
+    "PRODUCTS": "Products",
+    "PRODUCTS_SUB_MENU": {
+      "API_Generator": "API Generator",
+      "API_Mock_Server": "API Mock Server",
+      "API_Test_Data_Generator": "API Test Data Generator",
+      "URL_Shortner": "URL Shortner",
+      "Application_Config_Manager": "Application Config Manager"
+    },
+    "RESOURCES": "Resources",
+    "RESOURCES_SUB_MENU": {
+      "SIGN_IN": "Sign in",
+      "DOCUMENTATION": "Documentation",
+      "SUPPORT": "Support"
+    },
+    "LEGAL": "Legal",
+    "LEGAL_SUB_MENU": {
+      "PRIVACY_POLICY": "Privacy Policy",
+      "TERMS_&_CONDITIONS": "Terms & Conditions"
+    }
+  },
+  "ABOUT_US": {
+    "SESSION_1": {
+      "TITLE": "Powerful API Testing & Monitoring for your entire team",
+      "SUB_TITLE_1": "Functional API testing & monitoring for REST & GraphQL APIs with multi-step tests, unlimited users and team collaboration.",
+      "SUB_TITLE_2": "No credit card required."
+    },
+    "SESSION_2": {
+      "TITLE": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "DESCRIPTION": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    }
+  },
+  "LANGUAGE": "Language",
+  "MODE": "Mode"
+}

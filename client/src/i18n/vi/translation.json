@@ -1,0 +1,128 @@
+{
+  "TOP_BANER": {
+    "1": "Chúng tôi đang tuyển dụng!",
+    "2": "Tìm hiểu thêm"
+  },
+  "SETTING": "Cài đặt",
+  "MENU": {
+    "NAVBAR": {
+      "LEFT": {
+        "HOME": "Trang chủ",
+        "FEATURES": "Đặc trưng",
+        "LEARN": "Nghiên cứu",
+        "PRICING": "Chi phí",
+        "PRODUCTS": "Các sản phẩm",
+        "PRODUCTS_SUB_MENU": {
+          "API_Generator": "Trình tạo API",
+          "API_Mock_Server": "Máy chủ mô phỏng API",
+          "API_Test_Data_Generator": "Trình tạo dữ liệu thử nghiệm API",
+          "URL_Shortner": "Rút ngắn URL",
+          "Application_Config_Manager": "Trình quản lý cấu hình ứng dụng"
+        },
+        "INTEGRATIONS": "Tích hợp",
+        "ABOUT_US": "Về chúng tôi"
+      },
+      "RIGHT": {
+        "LOGIN": "Đăng nhập",
+        "SIGN_UP": "Đăng kí miễn phí",
+        "SIGN_UP_SHORT": "Đăng kí"
+      }
+    }
+  },
+  "LANGDING": {
+    "SESSION_1": {
+      "TITLE": "Kiểm tra & giám sát API mạnh mẽ cho toàn bộ nhóm của bạn",
+      "SUB_TITLE_1": "Kiểm tra & giám sát API chức năng cho các API REST & GraphQL với kiểm tra nhiều bước, người dùng không giới hạn và cộng tác nhóm.",
+      "SUB_TITLE_2": "Không cần thẻ tín dụng."
+    },
+    "SESSION_2": {
+      "TITLE": "Bộ thử nghiệm API là gì?",
+      "CARD_1": {
+        "TITLE": "Quản lý API",
+        "DESCRIPTION": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+      },
+      "CARD_2": {
+        "TITLE": "Theo dõi sự phụ thuộc API",
+        "DESCRIPTION": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+      },
+      "CARD_3": {
+        "TITLE": "Tập hợp tài liệu API",
+        "DESCRIPTION": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+      },
+      "CARD_4": {
+        "TITLE": "Tạo dữ liệu thử nghiệm API",
+        "DESCRIPTION": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+      },
+      "CARD_5": {
+        "TITLE": "Quản lý bộ thử nghiệm API",
+        "DESCRIPTION": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+      },
+      "CARD_6": {
+        "TITLE": "Tích hợp các công cụ bên ngoài",
+        "DESCRIPTION": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+      },
+      "CARD_7": {
+        "TITLE": "Máy chủ giả tạo",
+        "DESCRIPTION": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+      },
+      "CARD_8": {
+        "TITLE": "API luôn hoạt động",
+        "DESCRIPTION": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+      },
+      "CARD_9": {
+        "TITLE": "Xuất / Nhập: Thông số kỹ thuật Swagger, Ramal, OpenAPI",
+        "DESCRIPTION": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+      }
+    },
+    "SESSION_3": {
+      "BTN_Learn_more": "Tìm hiểu thêm!"
+    },
+    "SESSION_4": {
+      "TITLE": "Bắt đầu với Bộ thử nghiệm API!",
+      "INPUT": "Nhập email của bạn...",
+      "BUTTON": "Bắt đầu!"
+    }
+  },
+  "FOOTER": {
+    "COMPANY": "Công ty",
+    "COMPANY_SUB_MENU": {
+      "HOME": "Trang chủ",
+      "CHANGELOG": "Changelog",
+      "PRICING": "Chi phí",
+      "CAREERS": "Ứng viên",
+      "WE_ARE_HIRING": "Chúng tôi đang tuyển dụng"
+    },
+    "PRODUCTS": "Các sản phẩm",
+    "PRODUCTS_SUB_MENU": {
+      "API_Generator": "Trình tạo API",
+      "API_Mock_Server": "Máy chủ mô phỏng API",
+      "API_Test_Data_Generator": "Trình tạo dữ liệu thử nghiệm API",
+      "URL_Shortner": "Rút ngắn URL",
+      "Application_Config_Manager": "Trình quản lý cấu hình ứng dụng"
+    },
+    "RESOURCES": "Tài nguyên",
+    "RESOURCES_SUB_MENU": {
+      "SIGN_IN": "Đăng nhập",
+      "DOCUMENTATION": "Tài liệu",
+      "SUPPORT": "Hỗ trợ khách hàng"
+    },
+    "LEGAL": "Hợp pháp",
+    "LEGAL_SUB_MENU": {
+      "PRIVACY_POLICY": "Chính sách bảo mật",
+      "TERMS_&_CONDITIONS": "Điều khoản và điều kiện"
+    }
+  },
+  "ABOUT_US": {
+    "SESSION_1": {
+      "TITLE": "Kiểm tra & giám sát API mạnh mẽ cho toàn bộ nhóm của bạn",
+      "SUB_TITLE_1": "Kiểm tra & giám sát API chức năng cho các API REST & GraphQL với kiểm tra nhiều bước, người dùng không giới hạn và cộng tác nhóm.",
+      "SUB_TITLE_2": "Không cần thẻ tín dụng."
+    },
+    "SESSION_2": {
+      "TITLE": "Lorem Ipsum là gì?",
+      "DESCRIPTION": "Lorem Ipsum chỉ đơn giản là một đoạn văn bản giả, được dùng vào việc trình bày và dàn trang phục vụ cho in ấn. Lorem Ipsum đã được sử dụng như một văn bản chuẩn cho ngành công nghiệp in ấn từ những năm 1500, khi một họa sĩ vô danh ghép nhiều đoạn văn bản với nhau để tạo thành một bản mẫu văn bản. Đoạn văn bản này không những đã tồn tại năm thế kỉ, mà khi được áp dụng vào tin học văn phòng, nội dung của nó vẫn không hề bị thay đổi. Nó đã được phổ biến trong những năm 1960 nhờ việc bán những bản giấy Letraset in những đoạn Lorem Ipsum, và gần đây hơn, được sử dụng trong các ứng dụng dàn trang, như Aldus PageMaker."
+    }
+  },
+  "LANGUAGE": "Ngôn ngữ",
+  "MODE": "Mode"
+}
