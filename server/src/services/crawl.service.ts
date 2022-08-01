@@ -4,7 +4,7 @@ import { isEmpty } from '@utils/util';
 const puppeteer = require('puppeteer');
 const cheerio = require('cheerio');
 const redis = require('redis');
-const client = redis.createClient('redis://20.196.66.40:6380');
+const client = redis.createClient('redis://url:6380');
 client.connect();
 client.on('error', function (error) {
   console.error(error);
